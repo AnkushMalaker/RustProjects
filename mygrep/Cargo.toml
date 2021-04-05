@@ -1,12 +1,8 @@
 [package]
-name = "scratch"
+name = "mygrep"
 version = "0.1.0"
 authors = ["Ankush Malaker <>"]
 edition = "2018"
-
-[lib]
-name = "scratch"
-path = "src/lib.rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
